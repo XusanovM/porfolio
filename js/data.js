@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Parfium",
+    github: "https://github.com/XusanovM/Parfumn",
+    vercel: "https://parfumn.vercel.app/",
+  },
+  {
     title: "5-dars",
     github: "https://github.com/XusanovM/5-dars",
     vercel: "https://vercel.com/xusanovms-projects/5-dars",
