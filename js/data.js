@@ -29,4 +29,10 @@ export default [
     github: "https://github.com/XusanovM/web-site",
     vercel: "https://vercel.com/xusanovms-projects/web-site",
   },
+  {
+    title: "Partfum",
+    github: "https://github.com/XusanovM/Parfumn",
+    vercel: "https://vercel.com/xusanovms-projects/parfumn",
+  },
+
 ];
