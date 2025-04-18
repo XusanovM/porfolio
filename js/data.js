@@ -34,5 +34,10 @@ export default [
     github: "https://github.com/XusanovM/Parfumn",
     vercel: "https://vercel.com/xusanovms-projects/parfumn",
   },
+  {
+    title: "Namanganliklar",
+    github: "https://github.com/XusanovM/Namanganliklar",
+    vercel: "https://namanganliklar-dun.vercel.app/",
+  },
 
 ];
